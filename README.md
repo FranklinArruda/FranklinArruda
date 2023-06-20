@@ -26,7 +26,7 @@ I am incredibly passionate about continuous learning and thrive on engaging in c
 
 
 ---
-### 📊 Stats
+<!--### 📊 Stats-->
 
 <div align="left">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FranklinArruda&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
@@ -65,3 +65,7 @@ Inspired by the effectiveness of my spreadsheets, I came up with an idea to expa
 Since more than half of my classmates at college are from abroad, my goal has been to provide practical resources and support for international students such as guiding them on how to be more organized, adjusting taxes on Revenue and so forth. I'm truly passionate about creating impactful projects that benefit this community.
 
 Since then, I've pushed myself to enter the industry as a front-end or back-end developer through internships, showcasing my personal projects. Despite the challenges of being a beginner, and as I am a self-taught English student. I've always believed in the possibility of success. Now, I'm ready to embrace discomfort once more and pursue my goals to become a Developer.
+
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FranklinArruda&label=Profile%20views&color=f22558&style=flat" alt="FranklinArruda" /> </p>
