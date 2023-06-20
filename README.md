@@ -5,7 +5,7 @@
 <p align="left">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;"/></a>
+    <img height="50em"src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student;"/></a>
 </p>
 
 I am incredibly passionate about continuous learning and thrive on engaging in critical thinking. The ability to solve problems by coding is what truly challenges me and keeps me motivated.
