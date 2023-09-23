@@ -1,6 +1,8 @@
 
 # 🏄‍♂️ Franklin Arruda
 
+## <a href="https://www.linkedin.com/in/franklin-arruda-6a679b194/" target="_blank">
+
 <!--**`Computer Science Student (Developer)`**-->
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=BB8526&background=FFEF3000&width=435&lines=I+am+a+Computer+Science+Student;and+I+love+learning+how+to+code" alt="Typing SVG" /></a>
