@@ -1,5 +1,8 @@
 
-# 🏄‍♂️ Franklin Arruda  | <a href="https://franklinarruda.github.io/my-portifolio/" target="_blank" style="color: white; font-weight: bold; font-size: 12px; text-decoration: none;">See my Portfolio</a>
+# 🏄‍♂️ Franklin Arruda
+
+[See my Portfolio](https://franklinarruda.github.io/my-portifolio/){:style="color: white; font-weight: bold; font-size: 12px; text-decoration: none;" target="_blank"}
+
 
 
 
