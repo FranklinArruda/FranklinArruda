@@ -1,7 +1,7 @@
 
 # 🏄‍♂️ Franklin Arruda
 
-##<a href="https://franklinarruda.github.io/my-portifolio/" target="_blank">See my Portifolio</a>
+## <a href="https://franklinarruda.github.io/my-portifolio/" target="_blank">See my Portifolio</a>
 
 <!--**`Computer Science Student (Developer)`**-->
 <p align="left">
