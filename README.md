@@ -1,7 +1,7 @@
 
-# 🏄‍♂️ Franklin Arruda
+# 🏄‍♂️ Franklin Arruda  | <a href="https://franklinarruda.github.io/my-portifolio/" target="_blank" style="color: white; font-weight: bold; font-size: 12px; text-decoration: none;">See my Portfolio</a>
 
-<a href="https://franklinarruda.github.io/my-portifolio/" target="_blank" style="color: white; font-weight: bold; font-size: 12px; text-decoration: none;">See my Portfolio</a>
+
 
 
 <!--**`Computer Science Student (Developer)`**-->
