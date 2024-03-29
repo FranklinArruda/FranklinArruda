@@ -1,7 +1,7 @@
 
 # 🏄‍♂️ Franklin Arruda
 
-<a href="https://franklinarruda.github.io/my-portfolio/" target="_blank" style="color: white; font-weight: bold; text-decoration: none;">See my Portfolio</a>
+<a href="https://franklinarruda.github.io/my-online-portfolio/" target="_blank" style="color: white; font-weight: bold; text-decoration: none;">See my Portfolio</a>
 
 
 
