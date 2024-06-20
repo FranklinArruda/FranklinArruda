@@ -61,7 +61,7 @@ I am incredibly passionate about continuous learning and thrive on engaging in c
 <details> 
 <summary><h3>👨‍💻 Franklin's Coding Journey</h3></summary>
    
-I embarked on my coding journey as a naive computer science student with absolutely no prior experience or knowledge. During my first year, I often considered giving up due to the overwhelming number of tools, software, and projects available out there.
+I began my coding journey as a naive computer science student with absolutely no prior experience or knowledge. During my first year, I often considered giving up due to the overwhelming number of tools, software, and projects available out there.
 
 Entering my second year in the Bachelor's Degree program in computer science and information technology, I decided to take matters into my own hands and leverage my skills in Excel. As an international student studying abroad, staying organized was crucial to my success. So I created a set of impressive spreadsheets that served a dual purpose: helping me manage my expenses and organizing my studies as well as my personal life.
 
