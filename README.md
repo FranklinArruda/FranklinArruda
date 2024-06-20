@@ -59,7 +59,7 @@ I am incredibly passionate about continuous learning and thrive on engaging in c
 #
 
 <details> 
-<summary><h3>👨‍💻 Franklin's Coding Journey</h3></summary>
+<summary><h3>👨‍💻 From Excel to Code: My Evolution as a Developer</h3></summary>
    
 I began my coding journey as a naive computer science student with absolutely no prior experience or knowledge. During my first year, I often considered giving up due to the overwhelming number of tools, software, and projects available out there.
 
