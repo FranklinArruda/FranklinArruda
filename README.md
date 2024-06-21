@@ -20,7 +20,7 @@ I am incredibly passionate about continuous learning and thrive on engaging in c
           <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/FranklinArruda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/FranklinArruda?tab=repositories&sort=stargazers">
           <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FranklinArruda?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>   -->
-      <a href="https://www.linkedin.com/in/franklinarruda/" target="_blank">
+      <a href="https://www.linkedin.com/in/FranklinArruda/" target="_blank">
           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
       </a> 
       <a href = "mailto:franklinarrudaa@gmail.com">
