@@ -12,8 +12,14 @@
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=BB8526&background=FFEF3000&width=435&lines=I+am+a+Computer+Science+Student;and+I+love+learning+how+to+code" alt="Typing SVG" /></a>
 </p>
+<!--
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=BB8526&background=FFEF3000&width=435&lines=I+am+a+Software+Engineer+in+the+making;Dedicated+to+Writing+Clean+Code;Experienced+in+Java+and+Backend+Technologies" alt="Typing SVG" /></a>
+</p> -->
 
-I am incredibly passionate about continuous learning and thrive on engaging in critical thinking. The ability to solve problems by coding is what truly challenges me and keeps me motivated.
+
+
+I am incredibly passionate about continuous learning and thrive on engaging in critical thinking. The ability to solve problems by coding is what truly challenges me and keeps me motivated despite the challenges along the way.
 
   <p align="left"> 
      <!-- <a href="https://github.com/FranklinArruda?tab=followers">
@@ -23,7 +29,8 @@ I am incredibly passionate about continuous learning and thrive on engaging in c
       <a href="https://www.linkedin.com/in/FranklinArruda/" target="_blank">
           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
       </a> 
-      <a href = "mailto:franklinarrudaa@gmail.com">
+    <!--  
+    <a href = "mailto:franklinarrudaa@gmail.com">
           <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
       </a>
   <!-- WHAT SAP   <a href="https://wa.me/3530830785477" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  -->
@@ -43,13 +50,15 @@ I am incredibly passionate about continuous learning and thrive on engaging in c
 ### 🧰 Languages and Tools
           
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="DSA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+ <img align="left" alt="Electron" width="35px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+          
+          
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />    --> 
+ <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />    
 
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" 
