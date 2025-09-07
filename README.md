@@ -1,13 +1,6 @@
 
 # 🏄‍♂️ Franklin Arruda
 
-<a href="https://franklinarruda.github.io/my-online-portfolio/" target="_blank" style="color: white; font-weight: bold; text-decoration: none;">See my Portfolio</a>
-
-
-
-
-
-
 <!--**`Computer Science Student (Developer)`**-->
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=BB8526&background=FFEF3000&width=435&lines=I+am+a+Computer+Science+Student;and+I+love+learning+how+to+code" alt="Typing SVG" /></a>
@@ -28,7 +21,10 @@ I am incredibly passionate about continuous learning and thrive on engaging in c
           <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FranklinArruda?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>   -->
       <a href="https://www.linkedin.com/in/FranklinArruda/" target="_blank">
           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-      </a> 
+      </a>
+      <a href="https://franklinarruda.github.io/my-online-portfolio/" target="_blank">
+          <img src="https://img.shields.io/badge/See My Portfolio-%23FF5722?style=for-the-badge&logo=&logoColor=white">
+      </a>
     <!--  
     <a href = "mailto:franklinarrudaa@gmail.com">
           <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
