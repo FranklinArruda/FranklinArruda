@@ -3,16 +3,24 @@
 
 <!--**`Computer Science Student (Developer)`**-->
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=BB8526&background=FFEF3000&width=435&lines=I+am+a+Computer+Science+Student;and+I+love+learning+how+to+code" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=BB8526&background=FFEF3000&width=435&lines=Professional+Software+Developer;and+IT+network+technician" alt="Typing SVG" /></a>
 </p>
 <!--
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=BB8526&background=FFEF3000&width=435&lines=I+am+a+Software+Engineer+in+the+making;Dedicated+to+Writing+Clean+Code;Experienced+in+Java+and+Backend+Technologies" alt="Typing SVG" /></a>
 </p> -->
 
+BSc in Computing & IT (CCT College Dublin). I work with **networking, cloud infrastructure, system security and software development**.
+I focus on building systems that are **secure, reliable, and practical, nothing more, nothing less.** 
+
+Solve problems by is what truly challenges me and keeps me motivated despite the challenges along the way.
+###
 
 
-I am incredibly passionate about continuous learning and thrive on engaging in critical thinking. The ability to solve problems by coding is what truly challenges me and keeps me motivated despite the challenges along the way.
+<!--All infrastructure labs, Packet Tracer files, reports and screenshots are stored here:
+`[Google Drive / Portfolio Link]`
+Software repositories and source code: github.com/FranklinArruda`-->
+
 
   <p align="left"> 
      <!-- <a href="https://github.com/FranklinArruda?tab=followers">
