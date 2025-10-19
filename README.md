@@ -3,7 +3,7 @@
 
 <!--**`Computer Science Student (Developer)`**-->
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=BB8526&background=FFEF3000&width=435&lines=Professional+Software+Developer;and+IT+network+technician" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=BB8526&background=FFEF3000&width=435&lines=Professional+Software+Developer;and+IT+Support+/+Technician" alt="Typing SVG" /></a>
 </p>
 <!--
 <p align="left">
@@ -13,7 +13,7 @@
 BSc in Computing & IT (CCT College Dublin). I work with **networking, cloud infrastructure, system security and software development**.
 I focus on building systems that are **secure, reliable, and practical, nothing more, nothing less.** 
 
-Solve problems by is what truly challenges me and keeps me motivated despite the challenges along the way.
+Solving problems is what truly challenges me despite the setbacks along the way.
 ###
 
 
