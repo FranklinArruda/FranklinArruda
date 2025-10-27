@@ -10,7 +10,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=BB8526&background=FFEF3000&width=435&lines=I+am+a+Software+Engineer+in+the+making;Dedicated+to+Writing+Clean+Code;Experienced+in+Java+and+Backend+Technologies" alt="Typing SVG" /></a>
 </p> -->
 
-BSc in Computing & IT (CCT College Dublin). I work with **networking, cloud infrastructure, system security and software development**.
+BSc in Computing & IT. I work with **networking, cloud infrastructure, system security and software development**.
 I focus on building systems that are **secure, reliable, and practical, nothing more, nothing less.** 
 
 Solving problems is what truly challenges me despite the setbacks along the way.
